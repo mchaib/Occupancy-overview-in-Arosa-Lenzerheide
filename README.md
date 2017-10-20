@@ -1,0 +1,2 @@
+# Occupancy-overview-in-Arosa-Lenzerheide
+The Occupancy Overview data set contains a detailed description of the available accommodations in Arosa Lenzerheide. The data set contains about 500 accommodations with their corresponding object code and accompanying descriptors such as type of accommodation, product (type of bedroom), number of beds, and standard occupancy. The data set is available in German.
